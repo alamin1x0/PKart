@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6493991738",
+    "project_id": "pkart-3c5d9",
+    "storage_bucket": "pkart-3c5d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6493991738:android:4bd5c71f2a7591e2985603",
+        "android_client_info": {
+          "package_name": "com.developeralamin.pkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6493991738-nl4orbbbt94o17bd9i3hask5p74psr3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BCIGTOV6Wbv1slAhAjEcRtRN-I7_XjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6493991738-nl4orbbbt94o17bd9i3hask5p74psr3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
