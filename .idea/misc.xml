@@ -14,7 +14,7 @@
         <entry key="app/src/main/res/layout/activity_product_details.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_signin.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/all_order_item_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/all_order_item_layout.xml" value="0.33" />
         <entry key="app/src/main/res/layout/category_product_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_cart.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
